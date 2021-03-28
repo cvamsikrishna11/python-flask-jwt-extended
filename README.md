@@ -4,4 +4,4 @@
 
 ## Dependencies: pip install -r requirements.txt
 
-### Run: python app.py
+### Run: python src/app.py
